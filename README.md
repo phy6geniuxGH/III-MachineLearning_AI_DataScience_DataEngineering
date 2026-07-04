@@ -61,3 +61,4 @@
 - VSCode
 - Zed
 - Sakana Fugu AI
+- Claude Fable 5
