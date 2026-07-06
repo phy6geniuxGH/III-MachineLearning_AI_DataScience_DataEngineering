@@ -24,6 +24,7 @@
 - Physics Simulations
 - Advanced Analytics using Statistical Methods
 - Systems Thinking
+- CI/CD
 ## Planned Tech Stack
 - PyTorch
 - MLFlow
