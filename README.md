@@ -25,6 +25,7 @@
 - Advanced Analytics using Statistical Methods
 - Systems Thinking
 - CI/CD
+- Agentic Engineering
 ## Planned Tech Stack
 - PyTorch
 - MLFlow
