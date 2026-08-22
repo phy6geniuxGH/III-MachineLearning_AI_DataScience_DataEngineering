@@ -26,6 +26,8 @@
 - Systems Thinking
 - CI/CD
 - Agentic Engineering
+- Physics-informed Neural Networks
+  
 ## Planned Tech Stack
 - PyTorch
 - MLFlow
