@@ -65,6 +65,7 @@
 - VSCode
 - Zed
 - Sakana Fugu AI
+- Cursor
 - Claude Fable 5
 - GPT-5.6 Sol
 - Claude Opus 5
