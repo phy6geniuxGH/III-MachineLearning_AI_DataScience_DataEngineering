@@ -72,3 +72,4 @@
 - Qwen
 - AWS Skillbuiler
 - AWS Bedrock
+- AWS Bedrock AgentCore
