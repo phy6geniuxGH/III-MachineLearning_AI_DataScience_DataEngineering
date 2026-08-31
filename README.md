@@ -64,10 +64,11 @@
 - MLX-LM agentic coding
 - VSCode
 - Zed
-- Sakana Fugu AI
-- Cursor
 - Claude Fable 5
 - GPT-5.6 Sol
 - Claude Opus 5
 - Kimi K3
 - Deepseek
+- Qwen
+- AWS Skillbuiler
+- AWS Bedrock
