@@ -73,3 +73,4 @@
 - AWS Skillbuiler
 - AWS Bedrock
 - AWS Bedrock AgentCore
+- Amazon SageMaker
