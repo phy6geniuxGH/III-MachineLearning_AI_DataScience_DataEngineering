@@ -74,3 +74,4 @@
 - AWS Bedrock
 - AWS Bedrock AgentCore
 - Amazon SageMaker
+- Databricks App
